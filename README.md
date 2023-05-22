@@ -10,4 +10,3 @@ SpaceTime é um projeto Wec Responsivo de uma cápsula do tempo para exibir mém
 
 - HTML5
 - CSS3
-  -Git e Github
